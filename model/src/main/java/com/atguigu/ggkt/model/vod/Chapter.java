@@ -15,6 +15,7 @@ public class Chapter extends BaseEntity {
 	private static final long serialVersionUID = 1L;
 
 	@ApiModelProperty(value = "课程ID")
+
 	@TableField("course_id")
 	private Long courseId;
 
