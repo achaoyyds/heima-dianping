@@ -7,5 +7,6 @@ public class MyBatis {
         System.out.println("v1.1");
         System.out.println("master提交");
         System.out.println("v1.2提交");
+        System.out.println("push 提交");
     }
 }
